@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Domenic Malinsky
 
 #### Your section leader's name
 
-TODO
+Andrew Rosin
 
 #### Project title
 
-TODO
+Quad Pong
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Created a working pong game for two players.
 
 #### What have you not done for your project yet?
 
-TODO
+Implemented four players into the game.
 
 #### What problems, if any, have you encountered?
 
-TODO
+Figuring out keyboard layout for 4 players to be able to use at once (or just connect multiple devices)
