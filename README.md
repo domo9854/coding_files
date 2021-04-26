@@ -26,11 +26,6 @@ import pygame
 import sys
 from tkinter import *
 
-#song = wave.open("C:\Users\Domenic Malinsky\Desktop\Code\Python\GAME\ancients.mp3", "r")
-#p = vlc.MediaPlayer("C:\Users\Domenic Malinsky\Desktop\Code\Python\GAME\ancients.mp3")
-#p.play()
-#os.system("afplay ancients.mp3")-mac(feels bad man)
-
 title = Tk()
 title.title("Quad Pong")
 label_1 = Label(title, text = "Welcome To Quad Pong")
